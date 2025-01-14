@@ -1,0 +1,7 @@
+aiogram==3.*
+aiohttp
+python-dotenv
+translate
+pydantic
+matplotlib
+numpy
